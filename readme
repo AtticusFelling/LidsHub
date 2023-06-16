@@ -1,0 +1,4 @@
+This project is the API controller I created as the back-end of a full web application for Lids employees.
+Controllers>HomeController.cs is the central point for all API calls.
+"Services" contains methods that are called by the HomeController.
+"Models" contains custom classes for the services.
